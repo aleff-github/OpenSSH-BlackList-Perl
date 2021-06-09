@@ -35,6 +35,5 @@ for (@tutti_gli_ip) {
 @ip = keys %tutti;
 
 open(BLACKLIST,">","blacklist") or die $!;
-# open(INFO,"<","top.txt") or die $!;
 print BLACKLIST @ip;
 close BLACKLIST;
