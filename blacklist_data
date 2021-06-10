@@ -1,0 +1,409 @@
+###################################### IP Rilevato: 187.141.143.180
+#[DATA] 
+#[DATA] % Joint Whois - whois.lacnic.net
+#[DATA] %  This server accepts single ASN, IPv4 or IPv6 queries
+#[DATA] 
+#[DATA] % LACNIC resource: whois.lacnic.net
+#[DATA] 
+#[DATA] 
+#[DATA] % Copyright LACNIC lacnic.net
+#[DATA] %  The data below is provided for information purposes
+#[DATA] %  and to assist persons in obtaining information about or
+#[DATA] %  related to AS and IP numbers registrations
+#[DATA] %  By submitting a whois query, you agree to use this data
+#[DATA] %  only for lawful purposes.
+#[DATA] %  2021-06-10 06:06:32 (-03 -03:00)
+#[DATA] 
+#[NET] inetnum:     187.128.0.0/12
+#[DATA] status:      allocated
+#[DATA] aut-num:     N/A
+#[DATA] owner:       Uninet S.A. de C.V.
+#[DATA] ownerid:     MX-USCV4-LACNIC
+#[DATA] responsible: No hay informacion
+#[GEO] address:     Insurgentes Sur, 3500, Piso 4 PeÃ±a Pobre
+#[GEO] address:     14060 - Tlalpan - CX
+#[GEO] country:     MX
+#[DATA] phone:       +52  5554876500
+#[DATA] owner-c:     GEC10
+#[DATA] tech-c:      DCA
+#[DATA] abuse-c:     SRU
+#[DATA] inetrev:     187.131.0.0/16
+#[DATA] nserver:     NSMEX4.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSMEX3.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] inetrev:     187.130.0.0/16
+#[DATA] nserver:     NSMEX4.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSMEX3.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] inetrev:     187.129.0.0/16
+#[DATA] nserver:     NSMEX4.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSMEX3.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] inetrev:     187.128.0.0/16
+#[DATA] nserver:     NSMEX4.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSMEX3.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] inetrev:     187.132.0.0/16
+#[DATA] nserver:     NSMEX2.UNINET.NET.MX
+#[DATA] nsstat:      20210608 AA
+#[DATA] nslastaa:    20210608
+#[DATA] nserver:     NSGDL2.UNINET.NET.MX
+#[DATA] nsstat:      20210608 AA
+#[DATA] nslastaa:    20210608
+#[DATA] nserver:     NSMTY2.UNINET.NET.MX
+#[DATA] nsstat:      20210608 AA
+#[DATA] nslastaa:    20210608
+#[DATA] inetrev:     187.133.0.0/16
+#[DATA] nserver:     NSMEX2.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSGDL2.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSMTY2.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] inetrev:     187.134.0.0/16
+#[DATA] nserver:     NSMEX2.UNINET.NET.MX
+#[DATA] nsstat:      20210608 AA
+#[DATA] nslastaa:    20210608
+#[DATA] nserver:     NSGDL2.UNINET.NET.MX
+#[DATA] nsstat:      20210608 AA
+#[DATA] nslastaa:    20210608
+#[DATA] nserver:     NSMTY2.UNINET.NET.MX
+#[DATA] nsstat:      20210608 AA
+#[DATA] nslastaa:    20210608
+#[DATA] inetrev:     187.135.0.0/16
+#[DATA] nserver:     NSMEX2.UNINET.NET.MX
+#[DATA] nsstat:      20210607 AA
+#[DATA] nslastaa:    20210607
+#[DATA] nserver:     NSGDL2.UNINET.NET.MX
+#[DATA] nsstat:      20210607 AA
+#[DATA] nslastaa:    20210607
+#[DATA] nserver:     NSMTY2.UNINET.NET.MX
+#[DATA] nsstat:      20210607 AA
+#[DATA] nslastaa:    20210607
+#[DATA] inetrev:     187.136.0.0/16
+#[DATA] nserver:     NSMEX2.UNINET.NET.MX
+#[DATA] nsstat:      20210607 AA
+#[DATA] nslastaa:    20210607
+#[DATA] nserver:     NSGDL2.UNINET.NET.MX
+#[DATA] nsstat:      20210607 AA
+#[DATA] nslastaa:    20210607
+#[DATA] nserver:     NSMTY2.UNINET.NET.MX
+#[DATA] nsstat:      20210607 AA
+#[DATA] nslastaa:    20210607
+#[DATA] inetrev:     187.137.0.0/16
+#[DATA] nserver:     NSMEX2.UNINET.NET.MX
+#[DATA] nsstat:      20210606 AA
+#[DATA] nslastaa:    20210606
+#[DATA] nserver:     NSGDL2.UNINET.NET.MX
+#[DATA] nsstat:      20210606 AA
+#[DATA] nslastaa:    20210606
+#[DATA] nserver:     NSMTY2.UNINET.NET.MX
+#[DATA] nsstat:      20210606 AA
+#[DATA] nslastaa:    20210606
+#[DATA] inetrev:     187.138.0.0/16
+#[DATA] nserver:     NSMEX2.UNINET.NET.MX
+#[DATA] nsstat:      20210608 AA
+#[DATA] nslastaa:    20210608
+#[DATA] nserver:     NSGDL2.UNINET.NET.MX
+#[DATA] nsstat:      20210608 AA
+#[DATA] nslastaa:    20210608
+#[DATA] nserver:     NSMTY2.UNINET.NET.MX
+#[DATA] nsstat:      20210608 AA
+#[DATA] nslastaa:    20210608
+#[DATA] inetrev:     187.139.0.0/16
+#[DATA] nserver:     NSMEX2.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSGDL2.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSMTY2.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] inetrev:     187.140.0.0/16
+#[DATA] nserver:     NSMEX2.UNINET.NET.MX
+#[DATA] nsstat:      20210610 AA
+#[DATA] nslastaa:    20210610
+#[DATA] nserver:     NSGDL2.UNINET.NET.MX
+#[DATA] nsstat:      20210610 AA
+#[DATA] nslastaa:    20210610
+#[DATA] nserver:     NSMTY2.UNINET.NET.MX
+#[DATA] nsstat:      20210610 AA
+#[DATA] nslastaa:    20210610
+#[DATA] inetrev:     187.141.0.0/16
+#[DATA] nserver:     NSMEX4.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSMEX3.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] inetrev:     187.142.0.0/16
+#[DATA] nserver:     NSMEX2.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSGDL2.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSMTY2.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] inetrev:     187.143.0.0/16
+#[DATA] nserver:     NSMEX2.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSMTY2.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] nserver:     NSGDL2.UNINET.NET.MX
+#[DATA] nsstat:      20210609 AA
+#[DATA] nslastaa:    20210609
+#[DATA] created:     20071206
+#[DATA] changed:     20120227
+#[DATA] 
+#[DATA] nic-hdl:     GEC10
+#[DATA] person:      GESTION DE DIRECCIONAMIENTO UNINET
+#[DATA] e-mail:      gccips@reduno.com.mx
+#[GEO] address:     AV. INSURGENTES SUR, 3500, TORRE TELMEX COL. PEÃA POBRE
+#[GEO] address:     14060 - TLALPAN - CX
+#[GEO] country:     MX
+#[DATA] phone:       +52  5554876578
+#[DATA] created:     20110706
+#[DATA] changed:     20190910
+#[DATA] 
+#[DATA] nic-hdl:     DCA
+#[DATA] person:      GESTION DE CAMBIOS
+#[DATA] e-mail:      gccips1@reduno.com.mx
+#[GEO] address:     PERIFERICO SUR, 3190, ALVARO OBREG
+#[GEO] address:     01900 - MEXICO DF - CX
+#[GEO] country:     MX
+#[DATA] phone:       +52 5 556244400
+#[DATA] created:     20021210
+#[DATA] changed:     20170107
+#[DATA] 
+#[DATA] nic-hdl:     SRU
+#[DATA] person:      SEGURIDAD DE RED UNINET
+#[DATA] e-mail:      abuse@uninet.net.mx
+#[GEO] address:     PERIFERICO SUR, 3190, ALVARO OBREG
+#[GEO] address:     01900 - MEXICO - CX
+#[GEO] country:     MX
+#[DATA] phone:       +52 55 52237234
+#[DATA] created:     20030701
+#[DATA] changed:     20170107
+#[DATA] 
+#[DATA] % whois.lacnic.net accepts only direct match queries.
+#[DATA] % Types of queries are: POCs, ownerid, CIDR blocks, IP
+#[DATA] % and AS numbers.
+#[DATA] 
+###################################### IP Rilevato: 195.154.37.122
+#[DATA] % This is the RIPE Database query service.
+#[DATA] % The objects are in RPSL format.
+#[DATA] %
+#[DATA] % The RIPE Database is subject to Terms and Conditions.
+#[DATA] % See http://www.ripe.net/db/support/db-terms-conditions.pdf
+#[DATA] 
+#[DATA] % Note: this output has been filtered.
+#[DATA] %       To receive output for a database update, use the "-B" flag.
+#[DATA] 
+#[DATA] % Information related to '195.154.0.0 - 195.154.127.255'
+#[DATA] 
+#[DATA] % Abuse contact for '195.154.0.0 - 195.154.127.255' is 'abuse@online.net'
+#[DATA] 
+#[NET] inetnum:        195.154.0.0 - 195.154.127.255
+#[DATA] org:            ORG-ONLI1-RIPE
+#[NET] netname:        FR-ILIAD-ENTREPRISES-CUSTOMERS
+#[DESC] descr:          Iliad Entreprises Customers
+#[GEO] country:        FR
+#[DATA] admin-c:        IENT-RIPE
+#[DATA] tech-c:         IENT-RIPE
+#[DATA] status:         LIR-PARTITIONED PA
+#[DATA] mnt-by:         MNT-TISCALIFR-B2B
+#[DATA] created:        2012-11-02T15:33:53Z
+#[DATA] last-modified:  2016-02-22T16:26:52Z
+#[DATA] source:         RIPE
+#[DATA] 
+#[DESC] organisation:   ORG-ONLI1-RIPE
+#[DATA] mnt-ref:        MNT-TISCALIFR-B2B
+#[DATA] org-name:       ONLINE SAS
+#[DATA] org-type:       OTHER
+#[GEO] address:        8 rue de la ville l'eveque 75008 PARIS
+#[DATA] abuse-c:        AR32851-RIPE
+#[DATA] mnt-ref:        ONLINESAS-MNT
+#[DATA] mnt-by:         ONLINESAS-MNT
+#[DATA] created:        2015-07-10T15:20:41Z
+#[DATA] last-modified:  2017-10-30T14:40:53Z
+#[DATA] source:         RIPE # Filtered
+#[DATA] 
+#[DATA] role:           SCALEWAY
+#[DATA] remarks:        known as Online S.A.S. / Iliad-Entreprises
+#[GEO] address:        8 rue de la ville l'évêque
+#[GEO] address:        75008 Paris
+#[GEO] address:        France
+#[DATA] phone:          +33 1 73 50 20 00
+#[DATA] fax-no:         +33 1 73 50 29 01
+#[DATA] abuse-mailbox:  abuse@online.net
+#[DATA] tech-c:         TTFR1-RIPE
+#[DATA] nic-hdl:        IENT-RIPE
+#[DATA] mnt-by:         ONLINE-NET-MNT
+#[DATA] created:        2012-10-25T13:21:59Z
+#[DATA] last-modified:  2020-04-10T09:11:50Z
+#[DATA] source:         RIPE # Filtered
+#[DATA] 
+#[DATA] % Information related to '195.154.0.0/16AS12876'
+#[DATA] 
+#[DATA] route:          195.154.0.0/16
+#[DESC] descr:          Online SAS
+#[DESC] descr:          Paris, France
+#[DATA] origin:         AS12876
+#[DATA] mnt-by:         MNT-TISCALIFR
+#[DATA] created:        2013-08-02T09:05:22Z
+#[DATA] last-modified:  2013-08-02T09:05:22Z
+#[DATA] source:         RIPE
+#[DATA] 
+#[DATA] % This query was served by the RIPE Database Query Service version 1.100 (ANGUS)
+#[DATA] 
+#[DATA] 
+###################################### IP Rilevato: 173.234.31.186
+#[DATA] 
+#[DATA] #
+#[DATA] # ARIN WHOIS data and services are subject to the Terms of Use
+#[DATA] # available at: https://www.arin.net/resources/registry/whois/tou/
+#[DATA] #
+#[DATA] # If you see inaccuracies in the results, please report at
+#[DATA] # https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#[DATA] #
+#[DATA] # Copyright 1997-2021, American Registry for Internet Numbers, Ltd.
+#[DATA] #
+#[DATA] 
+#[DATA] 
+#[DATA] NetRange:       173.234.24.0 - 173.234.31.255
+#[DATA] CIDR:           173.234.24.0/21
+#[DATA] NetName:        USD-NET-173-234-24
+#[DATA] NetHandle:      NET-173-234-24-0-1
+#[DATA] Parent:         NET173 (NET-173-0-0-0-0)
+#[DATA] NetType:        Direct Allocation
+#[DATA] OriginAS:       AS63018
+#[DATA] Organization:   Dedicated.com (UDL-17)
+#[DATA] RegDate:        2016-02-01
+#[DATA] Updated:        2016-10-28
+#[DATA] Ref:            https://rdap.arin.net/registry/ip/173.234.24.0
+#[DATA] 
+#[DATA] 
+#[DATA] OrgName:        Dedicated.com
+#[DATA] OrgId:          UDL-17
+#[DATA] Address:        4400 ne 77th ave ste 275
+#[DATA] City:           Vancouver
+#[DATA] StateProv:      WA
+#[DATA] PostalCode:     98662
+#[DATA] Country:        US
+#[DATA] RegDate:        2016-10-05
+#[DATA] Updated:        2019-12-17
+#[DATA] Comment:        dedicated.com
+#[DATA] Ref:            https://rdap.arin.net/registry/entity/UDL-17
+#[DATA] 
+#[DATA] 
+#[DATA] OrgNOCHandle: HICKS100-ARIN
+#[DATA] OrgNOCName:   Hicks, Robby 
+#[DATA] OrgNOCPhone:  +1-844-533-1300 
+#[DATA] OrgNOCEmail:  admins@dedicated.com
+#[DATA] OrgNOCRef:    https://rdap.arin.net/registry/entity/HICKS100-ARIN
+#[DATA] 
+#[DATA] OrgTechHandle: MGN4-ARIN
+#[DATA] OrgTechName:   Nappo, Matthew G
+#[DATA] OrgTechPhone:  +1-844-533-1300 
+#[DATA] OrgTechEmail:  admin@usdedicated.com
+#[DATA] OrgTechRef:    https://rdap.arin.net/registry/entity/MGN4-ARIN
+#[DATA] 
+#[DATA] OrgTechHandle: HICKS100-ARIN
+#[DATA] OrgTechName:   Hicks, Robby 
+#[DATA] OrgTechPhone:  +1-844-533-1300 
+#[DATA] OrgTechEmail:  admins@dedicated.com
+#[DATA] OrgTechRef:    https://rdap.arin.net/registry/entity/HICKS100-ARIN
+#[DATA] 
+#[DATA] OrgAbuseHandle: ABUSE5262-ARIN
+#[DATA] OrgAbuseName:   ABUSE
+#[DATA] OrgAbusePhone:  +1-844-533-1300 
+#[DATA] OrgAbuseEmail:  admin@dedicated.com
+#[DATA] OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5262-ARIN
+#[DATA] 
+#[DATA] 
+#[DATA] #
+#[DATA] # ARIN WHOIS data and services are subject to the Terms of Use
+#[DATA] # available at: https://www.arin.net/resources/registry/whois/tou/
+#[DATA] #
+#[DATA] # If you see inaccuracies in the results, please report at
+#[DATA] # https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#[DATA] #
+#[DATA] # Copyright 1997-2021, American Registry for Internet Numbers, Ltd.
+#[DATA] #
+#[DATA] 
+###################################### IP Rilevato: 191.210.223.172
+#[DATA] 
+#[DATA] % Copyright (c) Nic.br
+#[DESC] %  The use of the data below is only permitted as described in
+#[DATA] %  full by the terms of use at https://registro.br/termo/en.html ,
+#[DATA] %  being prohibited its distribution, commercialization or
+#[DATA] %  reproduction, in particular, to use it for advertising or
+#[DATA] %  any similar purpose.
+#[DATA] %  2021-06-10T06:06:43-03:00 - IP: 130.25.190.183
+#[DATA] 
+#[NET] inetnum:     191.208.0.0/14
+#[DATA] aut-num:     AS26599
+#[DATA] abuse-c:     CSTBR
+#[DATA] owner:       TELEFï¿½NICA BRASIL S.A
+#[DATA] ownerid:     02.558.157/0001-62
+#[DATA] responsible: Diretoria de Planejamento e Tecnologia
+#[GEO] country:     BR
+#[DATA] owner-c:     ARITE
+#[DATA] tech-c:      ARITE
+#[DATA] inetrev:     191.208.0.0/14
+#[DATA] nserver:     aquarius.vivo.com.br
+#[DATA] nsstat:      20210607 AA
+#[DATA] nslastaa:    20210607
+#[DATA] nserver:     lynx.vivo.com.br
+#[DATA] nsstat:      20210607 AA
+#[DATA] nslastaa:    20210607
+#[DATA] nserver:     hercules.vivo.com.br
+#[DATA] nsstat:      20210607 AA
+#[DATA] nslastaa:    20210607
+#[DATA] nserver:     orion.vivo.com.br
+#[DATA] nsstat:      20210607 AA
+#[DATA] nslastaa:    20210607
+#[DATA] created:     20131118
+#[DATA] changed:     20131118
+#[DATA] 
+#[DATA] nic-hdl-br:  ARITE
+#[DATA] person:      Administraï¿½ï¿½o Rede IP Telesp
+#[DATA] e-mail:      dominios-vivo.br@telefonica.com
+#[GEO] country:     BR
+#[DATA] created:     20080407
+#[DATA] changed:     20160621
+#[DATA] 
+#[DATA] nic-hdl-br:  CSTBR
+#[DATA] person:      CSIRT TELEFONICA BR
+#[DATA] e-mail:      abuse.br@telefonica.com
+#[GEO] country:     BR
+#[DATA] created:     20180713
+#[DATA] changed:     20180713
+#[DATA] 
+#[GEO] % Security and mail abuse issues should also be addressed to
+#[DATA] % cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+#[DATA] % and mail-abuse@cert.br
+#[DATA] %
+#[DATA] % whois.registro.br accepts only direct match queries. Types
+#[DATA] % of queries are: domain (.br), registrant (tax ID), ticket,
+#[DATA] % provider, CIDR block, IP and ASN.
